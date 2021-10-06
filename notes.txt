@@ -1,0 +1,38 @@
+NYC Taxi & Limousine Commission Trip Record Data
+
+4 types of vehicles
+1. Yellow cab
+- official cab that have the right to pick-up street-hailing and prearranged passengers anywhere in NYC
+- each cab must have a medallion attached
+- by law only 13,587 taxis/medallions available
+- medallians are auctioned by the city and transferrable on the open mkt by licensed brokers
+
+- also available through e-hail apps like Curb or Arro
+
+2. Green cab (aka street-hail liveries)
+- for-hire vehicles that are allowed to accept street-hails
+- cannot accept street hails in the hail exclusionary zone (parts of manhattan and airports)
+- receive permits and dispatched from licensed e-hail companies
+- same equipments as yellow taxis
+
+3. For-hire vehicle
+- prearranged trips only
+- Community Cars (aka Liveries), Black Cars, Luxury Limousines, and High Volume For-Hire Services
+
+4. High volume for-hire vehicle
+- at least 10,000 trips per day
+- these companies are subjected to increased data reporting and driver pay requirements.
+- 4 at the moment juno, lyft, uber, via (muvmi's dad)
+
+
+Why, what, how?
+
+Are there opportunities/gaps for transportation solutions in NYC??
+- Current market share by number of trips, passengers carried, revenue
+- Traffic by location (extrea: can we input a mock time and get a snapshot)
+
+
+Quick trip duration estimation
+(without traffic data seems unreasonable but yea this is quick)
+(a regression task)
+
