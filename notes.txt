@@ -33,6 +33,9 @@ Are there opportunities/gaps for transportation solutions in NYC??
 
 
 Quick trip duration estimation
+- try to create new features
 (without traffic data seems unreasonable but yea this is quick)
 (a regression task)
 
+https://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/
+https://github.com/toddwschneider/nyc-taxi-data/blob/master/README.md
