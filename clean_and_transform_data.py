@@ -67,7 +67,7 @@ def combine_all_tripdata(dfs:dict):
             append_df['vehicle_type'] = 'yellow'
         elif 'green' in dataset_name:
             append_df = df.loc[:, ['lpep_pickup_datetime', 'lpep_dropoff_datetime', 'PULocationID', 'DOLocationID', 'trip_distance']]
-            append_df['vehicle_type'] = 'yellow'
+            append_df['vehicle_type'] = 'green'
         elif 'fhvhv' in dataset_name:
             append_df = df.loc[:, ['pickup_datetime', 'dropoff_datetime', 'PULocationID', 'DOLocationID']]
             append_df['trip_distance'] = np.nan
