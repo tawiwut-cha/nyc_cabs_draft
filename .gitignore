@@ -1,2 +1,4 @@
 datasets/*tripdata*
+datasets/train.csv
+datasets/test.csv
 notes.txt
